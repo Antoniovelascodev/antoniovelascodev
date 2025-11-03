@@ -22,4 +22,4 @@ ____________________
 ### Github Stats
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoniovelascodev&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoniovelascodev)](https://git.io/streak-stats)
