@@ -17,9 +17,4 @@ Learning phase of:  Javascript, HTML & Java
 
 
 
-____________________
 
-### Github Stats
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoniovelascodev)](https://git.io/streak-stats)
